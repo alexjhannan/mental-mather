@@ -1,0 +1,14 @@
+{
+  "name": "mental-mather",
+  "version": "1.0.0",
+  "description": "Program to illustrate good mental mathematics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
