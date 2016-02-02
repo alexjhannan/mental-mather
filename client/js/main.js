@@ -92,7 +92,13 @@
 		return steps;
 	}
 
-	console.log(mentalMultiply(9300, 773));
+	var steps = mentalMultiply(9300, 773);
+
+	steps.forEach(function(el){
+
+		document.write('<p>' + el + '<p>');
+
+	});
 
 
 }());
