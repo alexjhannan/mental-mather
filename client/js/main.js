@@ -96,7 +96,7 @@
 
 	steps.forEach(function(el){
 
-		document.write('<p>' + el + '<p>');
+		document.write('<li>' + el + '</li>');
 
 	});
 
